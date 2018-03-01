@@ -1,0 +1,1 @@
+docker stack deploy -c panic.yaml panic
